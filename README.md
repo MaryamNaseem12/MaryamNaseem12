@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2196F3,00E5FF,3F51B5&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&animation=twinkling&fontAlignY=40" width="100%" />
+  <br>
   <a href="https://github.com/MaryamNaseem12">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Maryam+Naseem;Software+Engineer;AI+and+Machine+Learning;Android+Developer" alt="Typing SVG" />
   </a>
