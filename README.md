@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MaryamNaseem12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Maryam+Naseem+👋;Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Android+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Maryam+Naseem;Software+Engineer;AI+and+Machine+Learning;Android+Developer" alt="Typing SVG" />
   </a>
 </div>
 
